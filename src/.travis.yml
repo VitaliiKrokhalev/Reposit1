@@ -1,0 +1,2 @@
+language: С
+script: ./script/cibuild
