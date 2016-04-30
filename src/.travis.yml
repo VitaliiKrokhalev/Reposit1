@@ -1,2 +1,2 @@
-language: С
-script: ./script/cibuild
+language: c
+script: ./script/make && makefile
